@@ -13,6 +13,21 @@ This repository contains an LLM-powered poem generator built using [LangChain](h
 
 ---
 
+## 🚀 Setup Instructions
+1. 📦 Clone the Repository
+- git clone https://github.com/your-username/langgraph-poem-generator.git
+- cd langgraph-poem-generator
+2. 🐍 Create a Virtual Environment
+- python -m venv myenv
+- source myenv/bin/activate          # On Linux/macOS
+- myenv\Scripts\activate             # On Windows
+3. 📥 Install Dependencies
+- pip install -r requirements.txt
+4. 🔑 Set Environment Variables
+- You'll need an API key for Google Gemini.
+- GOOGLE_API_KEY=your_api_key_here
+5. Run the below command
+  python main.py
 
 ## 🛠️ Architecture
 
