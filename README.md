@@ -5,7 +5,7 @@ This repository contains an LLM-powered poem generator built using [LangChain](h
 ---
 
 ## ✨ Features
-
+- 🌍 **Supported Languages** - These models support most major language .(English, Hindi, Tamil, Kannada, Arabic etc)
 - 🎨 **Poem Generator Node** – Uses a custom prompt to create a 15–20 line poem with emotions explicitly mentioned in brackets `(like this)`.
 - 🧠 **Evaluator Node** – Evaluates the poem on emotional depth, word simplicity, and rhyming, giving a score and improvement feedback.
 - 🔁 **Optimizer Node** – Refines the poem based on evaluator feedback while retaining the original tone/emotion.
