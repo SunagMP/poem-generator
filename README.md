@@ -27,7 +27,7 @@ This repository contains an LLM-powered poem generator built using [LangChain](h
 - You'll need an API key for Google Gemini.
 - GOOGLE_API_KEY=your_api_key_here
 5. Run the below command
-  python main.py
+-python main.py
 
 ## 🛠️ Architecture
 
